@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ncd:home|Door43 (ncd)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ncd|d43-ncd repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ncd/archive/master.zip|d43-ncd.zip]]
+
+**Recent Changes**
+{{changes>ns = ncd}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ncd|Ethnologue data]]
+
